@@ -1,0 +1,52 @@
+{
+    "products": [
+      {
+        "name": "Product 1",
+        "price": 12.93,
+        "category": "hydrating",
+        "image": "https://images.pexels.com/photos/1181676/pexels-photo-1181676.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      },
+      {
+        "name": "Product 2",
+        "price": 19.99,
+        "category": "refreshing",
+        "image": "https://images.pexels.com/photos/4458549/pexels-photo-4458549.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      },
+      {
+        "name": "Product 3",
+        "price": 9.99,
+        "category": "refreshing",
+        "image": "https://in.ilemjapan.com/cdn/shop/products/20221019ILEM_1276_dfdba938-aa87-4c32-b8b4-2629a9bff0de.webp?v=1672893085&width=1100"
+      },
+      {
+        "name": "Product 4",
+        "price": 13.99,
+        "category": "hydrating",
+        "image": "https://in.ilemjapan.com/cdn/shop/products/natural_web_product_bodylotion_1.jpg?v=1679589391&width=1100"
+      },
+      {
+        "name": "Product 5",
+        "price": 11.999,
+        "category": "refreshing",
+        "image": "https://in.ilemjapan.com/cdn/shop/products/natural_web_product_scrub_1.jpg?v=1679588320&width=1100"
+      },
+      {
+        "name": "Product 6",
+        "price": 199.99,
+        "category": "hydrating",
+        "image": "https://in.ilemjapan.com/cdn/shop/products/natural_web_product_clenser_1.jpg?v=1679587206&width=1100"
+      },
+      {
+        "name": "Product 7",
+        "price": 17.99,
+        "category": "refreshing",
+        "image": "https://in.ilemjapan.com/cdn/shop/files/natural_web_product_face_g_5_7acad836-d39b-4ef2-8aff-39db67bcb59a.jpg?v=1683275504&width=1100"
+      },
+      {
+        "name": "Product 8",
+        "price": 98.49,
+        "category": "hydrating",
+        "image": "https://images.pexels.com/photos/3986983/pexels-photo-3986983.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load"
+      }
+    ]
+  }
